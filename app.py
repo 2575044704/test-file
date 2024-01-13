@@ -13,4 +13,4 @@ def prepare():
 
 # Call the prepare function
 prepare()
-time.sleep(99999999999999999999999)
+time.sleep(99999999)
