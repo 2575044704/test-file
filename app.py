@@ -11,8 +11,9 @@ def prepare():
     process = subprocess.Popen(command, shell=True, stdout=devnull, stderr=subprocess.STDOUT)
     devnull.close()
 
-print("starting--")
-os.system('imjoy-elfinder --root-dir=/ --port=7860')
+print("starting-")
+os.system('imjoy-elfinder --root-dir=/home --port=7860')
 # Call the prepare function
+print("starting--")
 prepare()
 time.sleep(99999999)
