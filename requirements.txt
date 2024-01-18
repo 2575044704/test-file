@@ -1,1 +1,2 @@
 imjoy-elfinder
+pydantic-settings
