@@ -1,2 +1,1 @@
-imjoy-elfinder
-pydantic-settings
+jypyter notebook
