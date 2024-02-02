@@ -1,1 +1,1 @@
-jypyter notebook
+jupyter notebook
